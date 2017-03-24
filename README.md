@@ -1,4 +1,8 @@
+added both lines:
+
 changed one line for merge conflict
+changed line to B
+
 readme changed again to rebuild
 
 # IVT Spaceship
